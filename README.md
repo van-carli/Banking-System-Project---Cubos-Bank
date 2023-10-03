@@ -45,5 +45,6 @@ To run this project on your local machine, follow the steps below:
 
 * Instead, replace it with `"dev": "nodemon ./src/index.js"`. With this change, you will be able to start the local server using the command: `npm run dev`.
 
-
 > Obs: The server will be running on port 3000. You can access the banking system routes using a tool such as <a href="https://insomnia.rest/download">Insomnia</a> or a web browser.
+
+> [Photos of project](https://github.com/van-carli/Banking-System-Project---Cubos-Bank/tree/main/assets)
