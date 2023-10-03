@@ -15,19 +15,19 @@ This repository showcases a banking system project developed as part of the chal
 
 To run this project on your local machine, follow the steps below:
 
-### 1. Ensure you have <a href="https://nodejs.org/en">Node.js</a> installed on your computer.
+#### 1. Ensure you have <a href="https://nodejs.org/en">Node.js</a> installed on your computer.
 
-### 2. Clone this repository to your local environment using the following command in the terminal:
+#### 2. Clone this repository to your local environment using the following command in the terminal:
 
 `git clone https://github.com/your-username/repository-name.git`
 
 > Be sure to replace **your-username** and **repository-name** with your actual information.
 
-### 3. Navigate to the project directory:
+#### 3. Navigate to the project directory:
 
 `cd repository-name`
 
-### 4. Install project dependencies using npm:
+#### 4. Install project dependencies using npm:
 
 * Install Express: `npm install express`
 
@@ -35,10 +35,9 @@ To run this project on your local machine, follow the steps below:
 
 * Install Date-fns: `npm install date-fns --save`
 
-### 5. Start the local server:
+#### 5. Start the local server:
 
 `npm start`
 
-> Obs: The server will be running on port 3000. You can access the banking system routes using a tool such as Postman or a web browser.
 
-> Please note that this project is for educational and learning purposes only. Ensure you understand and agree to data usage and personal information policies when using it. For a real production environment, it is essential to implement additional security measures and consider regulatory compliance.
+> Obs: The server will be running on port 3000. You can access the banking system routes using a tool such as <a href="https://insomnia.rest/download">Insomnia</a> or a web browser.
