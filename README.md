@@ -37,9 +37,9 @@ To run this project on your local machine, follow the steps below:
 
 #### 5. Start the local server:
 
-* Update the *package.json* file. 
+* Update the ***package.json*** file. 
 
-* In it, there is a property called *scripts*. 
+* In it, there is a property called ***scripts***. 
 
 * Modify the following code: `"test": "echo \"Error: no test specified\" && exit 1"`. 
 
