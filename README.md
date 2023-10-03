@@ -37,7 +37,13 @@ To run this project on your local machine, follow the steps below:
 
 #### 5. Start the local server:
 
-`npm start`
+* Update the 'package.json' file. 
+
+* In it, there is a property called 'scripts.' 
+
+* Modify the following code: "test": "echo \"Error: no test specified\" && exit 1". 
+
+* Instead, replace it with "dev": "nodemon ./src/index.js". With this change, you will be able to start the local server using the command: npm run dev.
 
 
 > Obs: The server will be running on port 3000. You can access the banking system routes using a tool such as <a href="https://insomnia.rest/download">Insomnia</a> or a web browser.
